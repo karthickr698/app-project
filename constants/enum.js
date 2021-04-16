@@ -1,0 +1,1 @@
+export const BASIC_URL='https://saravana-lakshmi.herokuapp.com/'
